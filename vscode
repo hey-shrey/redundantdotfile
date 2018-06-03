@@ -1,11 +1,24 @@
 {
+    "workbench.sideBar.location": "right",
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": true
+    },
+    "editor.tabCompletion": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "html": "html"
+    },
+    "files.associations": {
+        "*.html": "html",
+        "*.css": "postcss"
+    },
     "workbench.iconTheme": "vscode-great-icons",
     "sublimeTextKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.snippetSuggestions": "top",
     "editor.formatOnPaste": true,
     "git.ignoreLegacyWarning": true,
-    "workbench.sideBar.location": "right",
     "window.zoomLevel": 0,
     "editor.fontSize": 14,
     "terminal.integrated.fontSize": 12,
@@ -17,11 +30,9 @@
     ],
     "editor.wordWrap": "on",
     "editor.minimap.maxColumn": 90,
-    "files.associations": {
-        "*.css": "postcss"
-    },
     "editor.minimap.showSlider": "mouseover",
     "vsicons.dontShowNewVersionMessage": true,
     "workbench.colorTheme": "Dobri Next -C07- One",
     "window.menuBarVisibility": "toggle",
+
 }
