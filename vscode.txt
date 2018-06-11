@@ -7,11 +7,13 @@
     "editor.tabCompletion": true,
     "emmet.triggerExpansionOnTab": true,
     "emmet.includeLanguages": {
-        "html": "html"
+        "html": "html",
+        "postcss": "css"
     },
     "files.associations": {
         "*.html": "html",
-        "*.css": "postcss"
+        "*.pcss": "scss",
+        "*.css": "scss"
     },
     "workbench.iconTheme": "vscode-great-icons",
     "sublimeTextKeymap.promptV3Features": true,
